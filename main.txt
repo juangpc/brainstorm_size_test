@@ -8,6 +8,11 @@ commit 03
 commit 04
 ------
 commit 05
+------
+size of repo: ~160K
+delete repo folder
+clone repo from github again
+check size: 116K
 
 
 
