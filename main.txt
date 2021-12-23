@@ -13,6 +13,9 @@ size of repo: ~160K
 delete repo folder
 clone repo from github again
 check size: 116K
+------
+adding big binary file of 48MB
+size of folder is aprox. 48MB
 
 
 
