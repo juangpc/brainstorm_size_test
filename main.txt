@@ -29,10 +29,18 @@ commit 10
 changing big file
 size of .git folder is 17MB
 size of repo folder is 65MB
------- 11
+------ 
+commit 11
 deleting big_file.bin (size 48MB)
 size of .git folder is 17MB
 size of repo folder is 17MB
+------ 
+commit 12
+creating big_file.bin (size 14MB)
+size of .git folder is 21MB
+size of repo folder is 35MB
+
+
 
 
 
