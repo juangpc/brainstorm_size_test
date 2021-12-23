@@ -16,6 +16,11 @@ check size: 116K
 ------
 adding big binary file of 48MB
 size of folder is aprox. 48MB
+------
+commit 08
+size of .git folder is 17MB
+size of repo folder is 64MB
+
 
 
 
