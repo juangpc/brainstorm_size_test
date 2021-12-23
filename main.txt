@@ -20,6 +20,10 @@ size of folder is aprox. 48MB
 commit 08
 size of .git folder is 17MB
 size of repo folder is 64MB
+------
+commit 09
+size of .git folder is 17MB
+size of repo folder is 64MB
 
 
 
