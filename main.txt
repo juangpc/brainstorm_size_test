@@ -24,6 +24,11 @@ size of repo folder is 64MB
 commit 09
 size of .git folder is 17MB
 size of repo folder is 64MB
+------
+commit 10
+changing big file
+size of .git folder is 17MB
+size of repo folder is 65MB
 
 
 
