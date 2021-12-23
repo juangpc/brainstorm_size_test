@@ -9,11 +9,13 @@ commit 04
 ------
 commit 05
 ------
+commit 06
 size of repo: ~160K
 delete repo folder
 clone repo from github again
 check size: 116K
 ------
+commit 07
 adding big binary file of 48MB
 size of folder is aprox. 48MB
 ------
@@ -45,6 +47,10 @@ adding more text here
 ------
 commit 14
 adding more text here
+------ 
+commit 15
+renaming txt file as README.md to make it vissible directly in github.
+------
 
 
 
